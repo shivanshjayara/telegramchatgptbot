@@ -18,7 +18,7 @@ and the OpenAI API, respectively.
 Example:
     $ python chatgpt.py
 
-Author: Sunny BHaveen Chandra
+Author: Shivansh Jayar
 """
 
 import os
